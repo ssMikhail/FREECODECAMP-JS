@@ -8,7 +8,7 @@ function testLogicalAnd(val) {
     // Only change code above this line
     return "No";
   }
-  
+   
   testLogicalAnd(0);
   testLogicalAnd(24);
   testLogicalAnd(25);

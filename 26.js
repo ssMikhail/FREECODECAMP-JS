@@ -10,4 +10,4 @@ function testNotEqual(val) {
   testNotEqual("99");
   testNotEqual(12);
   testNotEqual("12");
-  testNotEqual("bob");
+  testNotEqual("bob"); 

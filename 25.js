@@ -8,3 +8,4 @@ function compareEquality(a, b) {
   
   compareEquality(10, "10");
   compareEquality("20", 20);
+  

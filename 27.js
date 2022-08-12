@@ -10,3 +10,4 @@ function testStrictNotEqual(val) {
   testStrictNotEqual("17");
   testStrictNotEqual(12);
   testStrictNotEqual("bob");
+  

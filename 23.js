@@ -8,3 +8,4 @@ function testEqual(val) {
   
   testEqual(10);
   testEqual(12);
+  

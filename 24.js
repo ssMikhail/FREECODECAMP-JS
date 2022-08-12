@@ -9,3 +9,4 @@ function testStrict(val) {
   testStrict(10);
   testStrict(7);
   testStrict("7");
+  
